@@ -27,6 +27,7 @@
     "eval": "^0.1.8",
     "express": "^4.17.3",
     "fast-speedtest-api": "^0.3.2",
+    "fca-project-orion": "^1.1.18",
     "figlet": "^1.5.2",
     "fs": "^0.0.1-security",
     "fs-extra": "^10.1.0",
