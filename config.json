@@ -1,0 +1,109 @@
+{
+  "language": "en",
+  "BOTOWNER": "Kyouya Dev",
+  "BOTNAME": "𝙰𝚒𝚗𝚣",
+  "note": "make sure that the bot name is all lowercase",
+  "PREFIX": "/",
+  "ADMINBOT": [
+    "100092359574131"
+  ],
+  "autoAcceptMessage": false,
+  "DeveloperMode": true,
+  "autoCreateDB": true,
+  "allowInbox": false,
+  "autoClean": true,
+  "adminOnly": false,
+  "encryptSt": true,
+  "DASHBOARD": false,
+  "commandDisabled": [],
+  "eventDisabled": [],
+  "OWNERLINK": "https://www.facebook.com/profile.php?id=100092359574131",
+  "OWNERNAME": "Ber",
+  "EMAIL": "",
+  "PASSWORD": "",
+  "OTPKEY": "",
+  "version": "1.0.0",
+  "DEL_FUNCTION": true,
+  "ADD_FUNCTION": true,
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "autoMarkDelivery": false,
+    "autoMarkRead": false,
+    "pauseLog": true,
+    "logLevel": "silent",
+    "selfListen": false,
+    "online": true,
+    "userAgent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21"
+  },
+  "DATABASE": {
+    "sqlite": {
+      "storage": "datasqlite/kyouya.sqlite"
+    }
+  },
+  "APPSTATEPATH": "../../facebookstate.json",
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 500
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "help": {
+    "autoUnsend": true,
+    "delayUnsend": 300
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "adminNoti": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "math": {
+    "WOLFRAM": "T8J8YV-H265UQ762K"
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyCqox-KXEwDncsuo2HIpE0MF8J7ATln5Vc",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "video": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "audio": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "log": {
+    "enable": true
+  },
+  "logs": {
+    "enable": true
+  },
+  "leave": {
+    "status": true,
+    "number": 150
+  },
+  "token": {
+    "autoUnsend": true,
+    "delayUnsend": 300
+  },
+  "token1": {
+    "autoUnsend": true,
+    "delayUnsend": 300
+  },
+  "maintenanceMode": false,
+  "videov2": {
+    "YOUTUBE_API": "AIzaSyDBOpnGGz225cPwHlJQs8OMRtxOjSUm73I"
+  },
+  "autorestartMode": false,
+  "yt": {
+    "YOUTUBE_API": "AIzaSyDBOpnGGz225cPwHlJQs8OMRtxOjSUm73I"
+  },
+  "onlineMode": true,
+  "online": false,
+  "autoacceptmessageMode": true,
+  "autoacceptMode": true
+}
