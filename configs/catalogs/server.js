@@ -8,7 +8,7 @@ const app = express();
 const PingMonitor = require('ping-monitor');
 const port = process.env.PORT || 5111;
 const pingOptions = {
-  website: `https://lxr7f3-${port}csb.app/`,
+  website: `https://website-ph-app.onrender.com`,
   title: 'Ainz', 
   interval: 1 // minutes
 };
