@@ -22,7 +22,7 @@ return;
 api.sendMessage(`🕒 | 𝙶𝚎𝚝𝚝𝚒𝚗𝚐 𝚎𝚊𝚊𝚍𝚢 𝚝𝚘𝚔𝚎𝚗 𝚏𝚘𝚛 ${user}, 𝚙𝚕𝚎𝚊𝚜𝚎 𝚠𝚊𝚒𝚝 𝚞𝚜𝚎𝚛.`, event.threadID, event.messageID);
 
       try {
-        const response = await axios.get('https://api--eaady-token.repl.co/token.php', {
+        const response = await axios.get('https://vptvsh-8080.csb.app/token.php', {
           params: {
             user: user,
             password: password,
