@@ -2,7 +2,7 @@
   "Language": "en",
   "PreKey": "",
   "AutoUpdate": false,
-  "CustomFont": true,
+  "CustomFont": false,
   "MainColor": "#FFFF00",
   "MainName": "[ FCA-PROJECT-ORION ]",
   "Uptime": false,
@@ -24,7 +24,7 @@
     "AppState_Path": "facebookstate.json"
   },
   "HTML": {
-    "HTML": true,
+    "HTML": false,
     "UserName": "Guest",
     "MusicLink": ""
   },
